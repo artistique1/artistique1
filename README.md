@@ -12,7 +12,7 @@
 - 💻 Python developer
 - 🌍 Live in Kazan, Russia
 - 🧠 Learning Data Science and ML
-- 📚 Currently studying at [SENATOROVAI](https://github.com/SENATOROVAI)
+- 📚 Currently studying at **[SENATOROVAI](https://github.com/SENATOROVAI)**
 
 ## How to reach me:
 [![Telegram](https://img.shields.io/badge/-Telegram-red?color=white&logo=telegram&logoColor=blue)](https://t.me/iceberg_arlette)
