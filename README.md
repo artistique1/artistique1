@@ -21,7 +21,7 @@
   <a href="https://www.kaggle.com/KseniyaTrofimova">
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
-  <a href="https://ods.ai/users/c775cc01d5c2c">
+  <a href="https://ods.ai/users/pff86d335d1ba">
     <img src="https://img.shields.io/badge/-ODS.AI-E66155?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAOCAYAAAAYmOkzAAAAIElEQVR42mP8/5+hP6PAAGhI0cZFEAwYNBDcMAMGVQBRv9KwQAAAAAElFTkSuQmCC&logoColor=white" alt="ODS.AI">
   </a>
 </p>
