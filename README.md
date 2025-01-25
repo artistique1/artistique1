@@ -14,7 +14,10 @@
 - 🧠 Learning Data Science and ML
 - 📚 Currently studying at **[SENATOROVAI](https://github.com/SENATOROVAI)**
 
-## How to reach me:<p align="center">
+## How to reach me:
+  <a href="https://t.me/iceberg_arlette">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
   <a href="https://github.com/artistique1">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
@@ -24,7 +27,6 @@
   <a href="https://ods.ai/users/pff86d335d1ba">
     <img src="https://img.shields.io/badge/-ODS.AI-E66155?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAOCAYAAAAYmOkzAAAAIElEQVR42mP8/5+hP6PAAGhI0cZFEAwYNBDcMAMGVQBRv9KwQAAAAAElFTkSuQmCC&logoColor=white" alt="ODS.AI">
   </a>
-</p>
 
 ## Skills:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
