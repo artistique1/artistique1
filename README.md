@@ -14,10 +14,17 @@
 - 🧠 Learning Data Science and ML
 - 📚 Currently studying at **[SENATOROVAI](https://github.com/SENATOROVAI)**
 
-## How to reach me:
-[![Telegram](https://img.shields.io/badge/-Telegram-red?color=white&logo=telegram&logoColor=blue)](https://t.me/iceberg_arlette)
-[![Mail](https://img.shields.io/badge/Mail-%D14836.svg?color=red&logo=gmail&logoColor=white)](mailto:trofimova.kv93@gmail.com)
-[![Vk](https://img.shields.io/badge/-Vkontakte-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/ksutrofimova)
+## How to reach me:<p align="center">
+  <a href="https://github.com/artistique1">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.kaggle.com/KseniyaTrofimova">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
+  <a href="https://ods.ai/users/c775cc01d5c2c">
+    <img src="https://img.shields.io/badge/-ODS.AI-E66155?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAOCAYAAAAYmOkzAAAAIElEQVR42mP8/5+hP6PAAGhI0cZFEAwYNBDcMAMGVQBRv9KwQAAAAAElFTkSuQmCC&logoColor=white" alt="ODS.AI">
+  </a>
+</p>
 
 ## Skills:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
