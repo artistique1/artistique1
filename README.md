@@ -9,7 +9,7 @@
 
 ## About me:
 - 👨‍💻 My name is Kseniya
-- 💻 Python developer
+- 💻 Python developer, System Analyst
 - 🌍 Live in Kazan, Russia
 - 🧠 Learning Data Science and ML
 - 📚 Currently studying at **[SENATOROVAI](https://github.com/SENATOROVAI)**
